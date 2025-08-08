@@ -208,19 +208,15 @@ img{
 }
 
 
-
-
-
-
-.btn-primary {
-  display: inline-block;
-  padding: 0.5rem 1rem;
-  text-decoration: none;
-  font-weight: 600;
-  border-radius: 4px;
-  background-color: #007bff;
-  color: #fff;
+.btn-primary.solid {
+  background: #007bff;
+  box-shadow: 0 8px 18px rgba(0, 123, 255, 0.12);
 }
-.btn-primary:hover {
-  background-color: #0056b3;
+
+.btn-primary.sold:hover,
+.btn-primary.solid:focus {
+  background: #0056b3;
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(0, 123, 255, 0.16);
+  outline: none;
 }
