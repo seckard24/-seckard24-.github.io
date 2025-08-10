@@ -1,1 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>ttps://github.com/seckard24/seckard24.github.io</loc>
 
+    <url>
+      <loc>https://seckard24.github.io/pages/index.html</loc>
+    </url>
+    <url>
+      <loc>https://seckard24.github.io/pages/about.html</loc> 
+    </url>
+    <url>
+      <loc>https://seckard24.github.io/pages/services.html</loc>
+    </url>
+    <url>
+      <loc>https://seckard24.github.io/pages/contact.html</loc>
+    </url>
+    <url>
+      <loc>https://seckard24.github.io/pages/gallery.html</loc>
+    </url>
+  </urlset>
